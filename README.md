@@ -11,19 +11,15 @@ I'm a recent graduate from the University of Indonesia, passionate about leverag
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
+## 📊 Project Status
 
-## 🌱 My Ongoing Projects :
-
-1. YOLOv8 Custom Scene Text Detection
-2. CRNN Text Recognition with Seq2seq and Attention
-
-## My ToDo Projects :
-
-1.  License Plate Detection and Blur in Video
-2.  Bad Word Censorization in Audio
-3.  Github Portofolio Website
-4.  Complete LeetCode Progress Archive
-5.  TSP with Many Approaches (GA, PSO, ACO, LP, ML)
+- YOLOv8 Custom Scene Text Detection: [**In progress**]
+- CRNN Text Recognition: [**In progress**]
+- License Plate Detection: To be started
+- Bad Word Censorization: To be started
+- Github Portfolio Website: To be started
+- LeetCode Progress Archive: [**In progress**]
+- TSP Approaches: To be started
 
 ## 📫 Connect with Me!
 

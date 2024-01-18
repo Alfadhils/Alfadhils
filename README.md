@@ -45,7 +45,7 @@ I'm a recent graduate from the University of Indonesia, passionate about leverag
 
 ## 📈 GitHub Stats
 
-![Fadhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true&count_private=true)
+![Fadhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alfadhils&show_icons=true&hide_title=true&hide_border=true&count_private=true)
 
 ## 🎉 Fun Facts
 

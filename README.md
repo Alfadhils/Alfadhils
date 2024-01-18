@@ -27,13 +27,13 @@ I'm a recent graduate from the University of Indonesia, passionate about leverag
 
 ## 📫 Connect with Me!
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/fadhil-u-bb7065140/))
+- [LinkedIn](https://www.linkedin.com/in/fadhil-u-bb7065140/)
 - [Email](fadhilumaraf.9a@gmail.com)
 
 ## 💼 Professional Experience
 
 - **OEE Engineer Intern** at PT. Mitsubishi Krama Yudha Motors and Manufacturing (Feb 2023 - Aug 2023)
-  - Enhanced productivity by developing a Digital Overall Equipment Efficiency (OEE) Monitoring System and Maintenance System for smart factory innovation. Utilized SQL Server and the ICONICS Suite to streamline the data processing pipeline and crafted interactive real-time dashboards. Achieved a notable improvement in production line productivity, increasing efficiency from 53% to 65%.
+Enhanced productivity by developing a Digital Overall Equipment Efficiency (OEE) Monitoring System and Maintenance System for smart factory innovation. Utilized SQL Server and the ICONICS Suite to streamline the data processing pipeline and crafted interactive real-time dashboards. Achieved a notable improvement in production line productivity, increasing efficiency from 53% to 65%.
 
 ## 📈 GitHub Stats
 

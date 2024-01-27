@@ -13,7 +13,7 @@ I'm a recent graduate from the University of Indonesia, passionate about leverag
 
 ## 📊 Project Status
 
-- YOLOv8 Custom Scene Text Detection: [**In progress**]
+- YOLOv8 Custom Scene Text Detection: [**Completed**]
 - CRNN Text Recognition: [**In progress**]
 - License Plate Detection: To be started
 - Bad Word Censorization: To be started

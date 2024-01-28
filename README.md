@@ -20,6 +20,7 @@ I'm a recent graduate from the University of Indonesia, passionate about leverag
 - Github Portfolio Website: To be started
 - LeetCode Progress Archive: [**In progress**]
 - TSP Approaches: To be started
+- Mult/Premult Image Classification, challange from [Captain Disillusion](https://www.youtube.com/watch?v=XobSAXZaKJ8) : To be started
 
 ## 📫 Connect with Me!
 

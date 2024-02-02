@@ -14,7 +14,7 @@ I'm a recent graduate from the University of Indonesia, passionate about leverag
 ## 📊 Project Status
 
 - YOLOv8 Custom Scene Text Detection: [**Completed**](https://github.com/Alfadhils/YOLOv8-Scene-Text-Detection)
-- CRNN Text Recognition: [**In progress**]
+- CRNN Text Recognition: [**Completed**](https://github.com/Alfadhils/YOLOv8-Scene-Text-Detection)
 - License Plate Detection: To be started
 - Bad Word Censorization: To be started
 - Github Portfolio Website: To be started

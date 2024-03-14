@@ -17,7 +17,7 @@ I'm a recent graduate from the University of Indonesia, passionate about leverag
 - CRNN Text Recognition: [**Completed**](https://github.com/Alfadhils/YOLOv8-Scene-Text-Detection)
 - License Plate Detection: To be started
 - Bad Word Censorization: To be started
-- Github Portfolio Website: [**In Progress**](https://alfadhils.github.io)
+- Github Portfolio Website: [**Completed**](https://alfadhils.github.io)
 - LeetCode Progress Archive: [**In progress**](https://github.com/Alfadhils/Leetcode-Archive)
 - TSP Approaches: To be started
 - Mult/Premult Image Classification, challange from [Captain Disillusion](https://www.youtube.com/watch?v=XobSAXZaKJ8) : To be started
